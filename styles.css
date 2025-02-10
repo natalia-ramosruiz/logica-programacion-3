@@ -8,11 +8,11 @@ body {
     justify-content: center;
     align-items: center;
     background: linear-gradient(to bottom, #8b5fa0, #b0c3db); 
-    color: #000000;
+    color: #fffcfc;
 }
 
 .container {
-    background: white;
+    background: #0d3a44;
     width: 50%;
     margin: 50px auto;
     padding: 20px;
@@ -29,19 +29,19 @@ h1 {
 
 h1:hover {
     transform: scale(1.1);
-    color: #1100ff; 
+    color: #8a86c4; 
 }
 
 p {
     font-size: 1.3em;
     margin-bottom: 1em;
-    color: #e7dede;
+    color: #c68fd4;
 }
 
 input {
     padding: 10px;
     font-size: 1em;
-    border: 2px solid #ff9966;
+    border: 2px solid #000000;
     border-radius: 5px;
     outline: none;
     margin-bottom: 1em;
@@ -53,7 +53,7 @@ button {
     font-size: 1.2em;
     font-family: Helvetica, serif;
     color: white;
-    background-color: #4caf50;
+    background-color: #4d8c9c;
     border: none;
     border-radius: 5px;
     cursor: pointer;
